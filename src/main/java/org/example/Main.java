@@ -6,6 +6,8 @@ public class Main {
         System.out.println("Using Git Bash for VC");
 
         int num1 = 9;
+
+        System.out.println(num1 + 9);
     }
 
 
